@@ -491,7 +491,7 @@ mrg:	if(nol>1)
 		printf("%38s last update:05/08/2019\n"," ");
 		printf("%38s version:2.1.0\n"," ");
 		printf("%38s bugs: unknown\n"," ");
-		printf("%38s report address:abhijeetringe90@gmail.com\n"," ");
+		printf("%38s report address:ringeabhijeet9@gmail.com\n"," ");
 
 
 	}
